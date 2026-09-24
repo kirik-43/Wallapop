@@ -221,4 +221,4 @@ Wallapop is offered as a full free version, ensuring all features and updates ar
 Ready to explore a world of second-hand treasures? Download Wallapop now and start your buying and selling journey today!
 
 ---
-**Last updated:** 2026-09-24 15:40:59 UTC
+**Last updated:** 2026-09-24 19:43:03 UTC
